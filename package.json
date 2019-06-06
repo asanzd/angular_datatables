@@ -27,7 +27,7 @@
     "@angular/router": "^7.2.3",
     "@angular/typescript": "^2.0.0-5d0e199",
     "angular-datatables": "^7.0.0",
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
     "datatables.net": "^1.10.19",
     "datatables.net-dt": "^1.10.19",
